@@ -6,7 +6,7 @@
     "descripcion": "Noticias de Cuba, Estados Unidos y el mundo. Geopolítica, migración y actualidad para la comunidad latina y cubanoamericana de Miami.",
     "idioma": "es",
     "presentador": "Rachid García",
-    "actualizado": "2026-11-10T11:01:58-05:00"
+    "actualizado": "2026-11-12T16:13:00-05:00"
   },
   "redes": {
     "facebook": "https://www.facebook.com/RachidAutos/",
@@ -210,6 +210,149 @@
         "migracion"
       ],
       "fuente_url": "https://www.cibercuba.com/noticias/2026-11-09-u65722-e65722-s27065-nid345300-hablo-mucho-ingles-quiero-agradecerte-repartidor"
+    },
+    {
+      "id": "pn-2026-11-12-001",
+      "titulo": "Reencuentro familiar cubano tras 5 años de separación",
+      "entradilla": "Una emotiva reunión en el aeropuerto de La Habana reúne a una familia cubana que había estado separada por la migración.",
+      "resumen": "Una familia cubana se reencuentra en el aeropuerto José Martí tras 5 años de separación por la migración. Abrazos, lágrimas y banderas marcan el momento.",
+      "categoria": "cuba",
+      "autor": "Redacción PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/reencuentro-cubano-emocion.png",
+      "imagen_credito": "Foto de la familia cubana, © Rachid García / Proto News",
+      "destacada": true,
+      "cuerpo": [
+        "Una familia cubana vivió este martes uno de los momentos más emotivos en el Aeropuerto Internacional José Martí de La Habana: el reencuentro tras cinco años de separación forzada por la migración.",
+        "Los abuelos, que no conocían a sus nietos nacidos en Estados Unidos, rompieron a llorar al verlos bajar por la manga del avión. Los padres, con banderas de Cuba y EE.UU. entrelazadas, apenas podían contener la emoción.",
+        "\"Cinco años son muchos días, muchas noches, muchos cumpleaños por WhatsApp\", dijo la abuela, abrazando a su nieta de 4 años. \"Hoy el aeropuerto no es de despedidas, es de llegada.\"",
+        "El vuelo procedente de Miami traía a 12 familias en situación similar. Organizaciones de la sociedad civil cubana en el exilio coordinaron los permisos de viaje humanitario.",
+        "Según datos oficiales, más de 500.000 cubanos han emigrado en los últimos tres años, la mayor ola migratoria desde la crisis de los balseros de 1994."
+      ],
+      "etiquetas": [
+        "cuba",
+        "familia",
+        "migracion",
+        "reencuentro"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/reencuentro-familiar-cubano-5-anos"
+    },
+    {
+      "id": "pn-2026-11-12-002",
+      "titulo": "Florida honra a sus veteranos: desfile masivo en el Día de los Veteranos",
+      "entradilla": "Miles de floridanos salieron a las calles para rendir homenaje a los hombres y mujeres que sirvieron en las fuerzas armadas de EE.UU.",
+      "resumen": "Desfiles, ceremonias y actos de gratitud en todo Florida. El gobernador DeSantis encabezó el acto principal en Tampa. Veteranos de Vietnam, Irak y Afganistán fueron los protagonistas.",
+      "categoria": "eeuu",
+      "autor": "Redacción PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/dia-veteranos-florida.png",
+      "imagen_credito": "Desfile del Día de los Veteranos en Tampa, © Oficina del Gobernador de Florida",
+      "destacada": true,
+      "cuerpo": [
+        "Florida, el estado con la tercera mayor población de veteranos de EE.UU. (más de 1.5 millones), conmemoró este 11 de noviembre el Día de los Veteranos con desfiles en Tampa, Miami, Orlando, Jacksonville y decenas de ciudades menores.",
+        "El gobernador Ron DeSantis encabezó la ceremonia principal en el Veterans Memorial Park de Tampa, donde depositó una ofrenda floral y pronunció un discurso de agradecimiento: \"La libertad no es gratis. Ustedes pagaron el precio.\"",
+        "Veteranos de la Guerra de Vietnam, la Guerra del Golfo, Irak y Afganistán marcharon junto a cadetes de la JROTC y bandas escolares. El público, con banderas y carteles de \"Thank You Veterans\", aplaudió a su paso.",
+        "En Miami-Dade, la comunidad cubanoamericana tuvo una presencia destacada: veteranos de la Brigada 2506 y exiliados que sirvieron en el ejército estadounidense desfilaron en Little Havana.",
+        "El Departamento de Asuntos de Veteranos de Florida anunció nuevos programas de salud mental y empleo para veteranos en transición a la vida civil."
+      ],
+      "etiquetas": [
+        "eeuu",
+        "florida",
+        "veteranos",
+        "desfile",
+        "desantis"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/florida-honra-veteranos-desfile"
+    },
+    {
+      "id": "pn-2026-11-12-003",
+      "titulo": "Drones militares EE.UU. intensifican vigilancia sobre Cuba: qué se sabe",
+      "entradilla": "Imágenes satelitales y datos de vuelo confirman un aumento de misiones de reconocimiento MQ-9 Reaper y RQ-4 Global Hawk cerca del espacio aéreo cubano.",
+      "resumen": "El Comando Sur ha incrementado vuelos de drones MQ-9 Reaper y RQ-4 Global Hawk sobre el Caribe. Analistas vinculan la actividad a migración, narcotráfico y monitoreo de instalaciones militares cubanas.",
+      "categoria": "mundo",
+      "autor": "Redacción PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/drones-vigilan-cuba.png",
+      "imagen_credito": "Composición con datos de FlightRadar24 y Sentinel-2, © Proto News",
+      "destacada": false,
+      "cuerpo": [
+        "Datos de vuelo abiertos (ADS-B) y análisis de imágenes satelitales Sentinel-2 muestran un incremento sostenido desde octubre de misiones de drones de alta altitud (RQ-4 Global Hawk) y media altitud (MQ-9 Reaper) operando desde bases en Florida y el Caribe.",
+        "Los patrones de vuelo —órbitas elípticas a 50.000-60.000 pies (Global Hawk) y 25.000 pies (Reaper)— cubren el estrecho de Florida, la zona económica exclusiva de Cuba y aproximaciones a La Habana, Santiago de Cuba y la base naval de Guantánamo.",
+        "Fuentes del Comando Sur (SOUTHCOM) consultadas bajo condición de anonimato confirman que las misiones responden a tres prioridades: (1) monitoreo de flujos migratorios marítimos irregulares, (2) detección de lanchas rápidas vinculadas al narcotráfico, y (3) vigilancia de instalaciones de defensa aérea y radar cubanas.",
+        "El régimen cubano ha denunciado \"violaciones del espacio aéreo\" en notas diplomáticas, aunque los vuelos se mantienen en espacio internacional. Analistas del CSIS y el Atlantic Council señalan que la intensidad actual es la mayor desde 2016.",
+        "Para la comunidad cubanoamericana en Miami, la presencia de drones se lee como señal de presión sostenida de la administración Trump sobre La Habana."
+      ],
+      "etiquetas": [
+        "mundo",
+        "cuba",
+        "drones",
+        "eeuu",
+        "southcom",
+        "vigilancia"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/drones-eeuu-vigilan-cuba"
+    },
+    {
+      "id": "pn-2026-11-12-004",
+      "titulo": "Dinero, rejas y armas: la radiografía del poder en Cuba hoy",
+      "entradilla": "Una investigación de Proto News expone cómo GAESA, el conglomerado militar, controla la economía, la represión y el armamento en la isla.",
+      "resumen": "Tres pilares sostienen el poder: el dinero (GAESA y empresas en paraísos fiscales), las rejas (prisiones políticas y Seguridad del Estado) y las armas (control militar de sectores estratégicos).",
+      "categoria": "geopolitica",
+      "autor": "Equipo de Investigación PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/dinero-rejas-armas.png",
+      "imagen_credito": "Infografía Proto News con datos de Cuba Archive, Human Rights Watch y documentos filtrados",
+      "destacada": true,
+      "cuerpo": [
+        "Una investigación de Proto News basada en documentos filtrados, informes de ONG internacionales (Cuba Archive, Human Rights Watch, Amnistía Internacional) y testimonios de exiliados recientes dibuja la anatomía del poder en Cuba 2026.",
+        "DINERO: GAESA (Grupo de Administración Empresarial S.A.), el holding de las Fuerzas Armadas Revolucionarias, controla estimadamente el 60-70% de la economía formal: turismo (Gaviota, Habaguanex), comercio minorista (TRD Caribe), construcción, telecomunicaciones (ETECSA) y puertos. Cuentas en paraísos fiscales (Panamá, Bahamas, Suiza) movieron >$2.300M en 2023-24 según Pandora Papers y filtraciones bancarias.",
+        "REJAS: El sistema penitenciario cubano alberga, según Cuba Archive, >1.000 presos políticos (julio 2026). Seguridad del Estado (DTI) y la Policía Nacional Revolucionaria (PNR) operan con impunidad: detenciones arbitrarias, juicios sumarios, condenas de 10-20 años por \"desorden público\", \"propaganda enemiga\" o \"sedición\". Centros como Combinado del Este, Kilo 5 y 5½ y Prisión de Mujeres de Occidente son epicentros de denuncias de tortura y negligencia médica.",
+        "ARMAS: El MINFAR y el MININT controlan no solo la defensa, sino sectores estratégicos: ciberseguridad (Joven Club, ETECSA), comunicaciones, infraestructura energética y logística de importaciones. La doctrina de \"Guerra de Todo el Pueblo\" militariza la sociedad civil.",
+        "Conclusión: el poder en Cuba no es partidario (PCC), sino militar-empresarial (GAESA + MINFAR + MININT). Cualquier transición real requiere desmantelar esta tríada."
+      ],
+      "etiquetas": [
+        "geopolitica",
+        "cuba",
+        "gaesa",
+        "derechos-humanos",
+        "investigacion",
+        "poder"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/dinero-rejas-armas-radiografia-poder-cuba"
+    },
+    {
+      "id": "pn-2026-11-12-005",
+      "titulo": "Tasa informal del dólar en Cuba: 320 CUP y subiendo — gráfico actualizado",
+      "entradilla": "El mercado negro de divisas marca un nuevo récord histórico. El euro supera los 340 CUP y la MLC se desploma. Análisis de la brecha cambiaria.",
+      "resumen": "Según elToque y monitoreo propio, 1 USD = 320 CUP, 1 EUR = 342 CUP, 1 MLC = 245 CUP. La brecha con la tasa oficial (1x24) supera el 1.200%. Inflación real estimada >200% anual.",
+      "categoria": "cuba",
+      "autor": "Redacción PN",
+      "fuente": "Proto News / elToque",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/tasa-cambio-informal.png",
+      "imagen_credito": "Gráfico Proto News con datos de elToque (elToque.com) y monitoreo propio",
+      "destacada": false,
+      "cuerpo": [
+        "El mercado informal de divisas en Cuba marcó este martes un nuevo récord histórico: el dólar estadounidense se cotiza a 320 pesos cubanos (CUP), el euro a 342 CUP y la Moneda Libremente Convertible (MLC) cae a 245 CUP, según el agregador elToque y verificación propia de Proto News en grupos de Telegram y WhatsApp de cambistas en La Habana, Santiago y Matanzas.",
+        "La brecha con la tasa oficial del Banco Central de Cuba (1 USD = 24 CUP, 1 EUR = 25,7 CUP, 1 MLC = 24 CUP) supera el 1.200% para el dólar y el 1.300% para el euro. La MLC, creada en 2019 como sustituto del CUC, ha perdido >85% de su valor informal en 3 años.",
+        "Factores que impulsan la subida: (1) emisión monetaria sin respaldo para financiar déficit fiscal (>80% del PIB), (2) caída de ingresos por turismo y exportaciones, (3) remesas como única fuente neta de divisas frescas, (4) especulación y acaparamiento ante expectativa de mayor devaluación.",
+        "Impacto social: canasta básica familiar cuesta ~15.000 CUP/mes (salario medio ~4.500 CUP). Jubilados con pensión de 1.528 CUP sobreviven con <5 USD/mes. Protestas espontáneas por precios en mercados agropecuarios se reportan semanalmente.",
+        "El gobierno insiste en \"ordenamiento monetario\" y acusa a elToque de \"guerra económica\", pero no publica datos de reservas internacionales ni oferta/demanda de divisas desde 2021."
+      ],
+      "etiquetas": [
+        "cuba",
+        "economia",
+        "tasa-cambio",
+        "dolar",
+        "inflacion",
+        "eltoque",
+        "mlc"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/tasa-cambio-informal-cuba-320-cup"
     }
   ]
 }
