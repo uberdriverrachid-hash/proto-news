@@ -1,0 +1,168 @@
+{
+  "sitio": {
+    "nombre": "Proto News",
+    "dominio": "actualidadexclusiva.com",
+    "url": "https://actualidadexclusiva.com",
+    "descripcion": "Noticias de Cuba, Estados Unidos y el mundo. Geopolítica, migración y actualidad para la comunidad latina y cubanoamericana de Miami.",
+    "idioma": "es",
+    "presentador": "Rachid García",
+    "actualizado": "2026-11-10T10:24:11-05:00"
+  },
+  "redes": {
+    "facebook": "https://www.facebook.com/actualidadexclusiva",
+    "whatsapp": "https://wa.me/13050000000",
+    "telegram": "https://t.me/actualidadexclusiva",
+    "donaciones": "https://ko-fi.com/actualidadexclusiva"
+  },
+  "categorias": [
+    {
+      "id": "cuba",
+      "nombre": "Cuba",
+      "color": "#E50914"
+    },
+    {
+      "id": "eeuu",
+      "nombre": "Estados Unidos",
+      "color": "#1877F2"
+    },
+    {
+      "id": "mundo",
+      "nombre": "Mundo",
+      "color": "#C9A961"
+    },
+    {
+      "id": "geopolitica",
+      "nombre": "Geopolítica",
+      "color": "#FF6B73"
+    },
+    {
+      "id": "migracion",
+      "nombre": "Migración",
+      "color": "#25D366"
+    }
+  ],
+  "noticias": [
+    {
+      "id": "ae-2026-11-10-001",
+      "titulo": "Titular de ejemplo: aquí va la noticia principal del día",
+      "entradilla": "Esta es la entradilla de ejemplo. Resume en dos o tres líneas lo esencial de la noticia para que el lector sepa de qué se trata antes de entrar.",
+      "resumen": "Resumen corto que aparece en la tarjeta de la portada. Debe caber en unas tres líneas y enganchar al lector.",
+      "categoria": "cuba",
+      "autor": "Rachid García",
+      "fuente": "Redacción AE",
+      "fecha": "2026-11-10T08:30:00-05:00",
+      "imagen": "assets/img/placeholder-16x9.svg",
+      "imagen_credito": "Imagen de referencia",
+      "destacada": true,
+      "cuerpo": [
+        "Este es el primer párrafo del cuerpo de la noticia. Aquí se desarrolla la información con el detalle necesario para que el lector entienda el contexto completo de lo que ha ocurrido.",
+        "Este es el segundo párrafo. Se pueden añadir tantos párrafos como sean necesarios. El sistema los renderiza automáticamente con el estilo correcto, incluyendo la letra capital en el primero.",
+        "Este es el tercer párrafo de ejemplo. Cuando yo publique noticias reales, este contenido se sustituirá por la información verificada de cada noticia."
+      ],
+      "etiquetas": [
+        "ejemplo",
+        "demostracion"
+      ]
+    },
+    {
+      "id": "ae-2026-11-10-002",
+      "titulo": "Segunda noticia de ejemplo para la columna lateral",
+      "entradilla": "Entradilla de la segunda noticia de ejemplo.",
+      "resumen": "Resumen de la segunda noticia de ejemplo que aparece en la columna lateral de la portada.",
+      "categoria": "eeuu",
+      "autor": "Rachid García",
+      "fuente": "Redacción AE",
+      "fecha": "2026-11-10T07:15:00-05:00",
+      "imagen": "assets/img/placeholder-16x9.svg",
+      "imagen_credito": "Imagen de referencia",
+      "destacada": false,
+      "cuerpo": [
+        "Cuerpo de la segunda noticia de ejemplo.",
+        "Segundo párrafo de la segunda noticia."
+      ],
+      "etiquetas": [
+        "ejemplo"
+      ]
+    },
+    {
+      "id": "ae-2026-11-10-003",
+      "titulo": "Tercera noticia de ejemplo para la columna lateral",
+      "entradilla": "Entradilla de la tercera noticia de ejemplo.",
+      "resumen": "Resumen de la tercera noticia de ejemplo que aparece en la columna lateral de la portada.",
+      "categoria": "mundo",
+      "autor": "Rachid García",
+      "fuente": "Redacción AE",
+      "fecha": "2026-11-10T06:00:00-05:00",
+      "imagen": "assets/img/placeholder-16x9.svg",
+      "imagen_credito": "Imagen de referencia",
+      "destacada": false,
+      "cuerpo": [
+        "Cuerpo de la tercera noticia de ejemplo.",
+        "Segundo párrafo de la tercera noticia."
+      ],
+      "etiquetas": [
+        "ejemplo"
+      ]
+    },
+    {
+      "id": "ae-2026-11-10-004",
+      "titulo": "Cuarta noticia de ejemplo para la columna lateral",
+      "entradilla": "Entradilla de la cuarta noticia de ejemplo.",
+      "resumen": "Resumen de la cuarta noticia de ejemplo que aparece en la columna lateral de la portada.",
+      "categoria": "geopolitica",
+      "autor": "Rachid García",
+      "fuente": "Redacción AE",
+      "fecha": "2026-11-10T05:00:00-05:00",
+      "imagen": "assets/img/placeholder-16x9.svg",
+      "imagen_credito": "Imagen de referencia",
+      "destacada": false,
+      "cuerpo": [
+        "Cuerpo de la cuarta noticia de ejemplo.",
+        "Segundo párrafo de la cuarta noticia."
+      ],
+      "etiquetas": [
+        "ejemplo"
+      ]
+    },
+    {
+      "id": "ae-2026-11-10-005",
+      "titulo": "Quinta noticia de ejemplo para la rejilla inferior",
+      "entradilla": "Entradilla de la quinta noticia de ejemplo.",
+      "resumen": "Resumen de la quinta noticia de ejemplo que aparece en la rejilla de noticias de la portada.",
+      "categoria": "migracion",
+      "autor": "Rachid García",
+      "fuente": "Redacción AE",
+      "fecha": "2026-11-10T04:00:00-05:00",
+      "imagen": "assets/img/placeholder-16x9.svg",
+      "imagen_credito": "Imagen de referencia",
+      "destacada": false,
+      "cuerpo": [
+        "Cuerpo de la quinta noticia de ejemplo.",
+        "Segundo párrafo de la quinta noticia."
+      ],
+      "etiquetas": [
+        "ejemplo"
+      ]
+    },
+    {
+      "id": "ae-2026-11-10-006",
+      "titulo": "Sexta noticia de ejemplo para la rejilla inferior",
+      "entradilla": "Entradilla de la sexta noticia de ejemplo.",
+      "resumen": "Resumen de la sexta noticia de ejemplo que aparece en la rejilla de noticias de la portada.",
+      "categoria": "cuba",
+      "autor": "Rachid García",
+      "fuente": "Redacción AE",
+      "fecha": "2026-11-10T03:00:00-05:00",
+      "imagen": "assets/img/placeholder-16x9.svg",
+      "imagen_credito": "Imagen de referencia",
+      "destacada": false,
+      "cuerpo": [
+        "Cuerpo de la sexta noticia de ejemplo.",
+        "Segundo párrafo de la sexta noticia."
+      ],
+      "etiquetas": [
+        "ejemplo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2A1013"/>
+      <stop offset="100%" stop-color="#0E0507"/>
+    </linearGradient>
+    <linearGradient id="rojo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF6B73"/>
+      <stop offset="45%" stop-color="#E50914"/>
+      <stop offset="100%" stop-color="#8E040A"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#fondo)" stroke="#E50914" stroke-width="2"/>
+  <text x="32" y="41" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="23" font-weight="700" fill="url(#rojo)">PN</text>
+</svg>

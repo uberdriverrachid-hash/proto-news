@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2A1013"/>
+      <stop offset="50%" stop-color="#14141A"/>
+      <stop offset="100%" stop-color="#0A0A0E"/>
+    </linearGradient>
+    <radialGradient id="brillo" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#E50914" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#E50914" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="rejilla" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#fondo)"/>
+  <rect width="1600" height="900" fill="url(#rejilla)"/>
+  <rect width="1600" height="900" fill="url(#brillo)"/>
+
+  <!-- Sin sello ni texto: fondo limpio. El titular manda. -->
+  <line x1="720" y1="450" x2="880" y2="450" stroke="#C9A961" stroke-opacity="0.22" stroke-width="1"/>
+</svg>

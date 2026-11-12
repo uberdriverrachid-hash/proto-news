@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A0507"/>
+      <stop offset="45%" stop-color="#0C0C0F"/>
+      <stop offset="100%" stop-color="#050506"/>
+    </linearGradient>
+    <radialGradient id="brillo" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#E50914" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#E50914" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rojo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF6B73"/>
+      <stop offset="45%" stop-color="#E50914"/>
+      <stop offset="100%" stop-color="#8E040A"/>
+    </linearGradient>
+    <pattern id="rejilla" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M 64 0 L 0 0 0 64" fill="none" stroke="#FFFFFF" stroke-opacity="0.028" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#fondo)"/>
+  <rect width="1600" height="900" fill="url(#rejilla)"/>
+  <rect width="1600" height="900" fill="url(#brillo)"/>
+
+  <circle cx="800" cy="450" r="54" fill="#0E0507" stroke="#E50914" stroke-opacity="0.55" stroke-width="2"/>
+  <text x="800" y="468" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="42" font-weight="700" fill="url(#rojo)" fill-opacity="0.85">AE</text>
+
+  <line x1="740" y1="540" x2="860" y2="540" stroke="#C9A961" stroke-opacity="0.30" stroke-width="1"/>
+</svg>

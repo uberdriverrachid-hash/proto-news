@@ -1,0 +1,311 @@
+/* ============================================================
+   ACTUALIDAD EXCLUSIVA — Sistema de diseño
+   Paleta: rojo dominante (marca AE) + negro profundo + oro
+   Hereda el lenguaje visual de Motoba Premium (placas, cristal,
+   tipografía grabada) y lo lleva a botones 3D con iluminación.
+   ============================================================ */
+
+:root{
+  /* --- Negros y grises --- */
+  --negro-950:#050506;
+  --negro-900:#08080A;
+  --negro-850:#0C0C0F;
+  --negro-800:#111114;
+  --negro-750:#16161B;
+  --negro-700:#1D1D24;
+
+  /* --- Rojos de marca (Actualidad Exclusiva) --- */
+  --rojo:#E50914;
+  --rojo-claro:#FF4D57;
+  --rojo-brillo:#FF6B73;
+  --rojo-oscuro:#8E040A;
+  --rojo-profundo:#5C0206;
+
+  /* --- Oro de acento --- */
+  --oro-200:#FBF3D9;
+  --oro-300:#F2E2B0;
+  --oro-400:#E3CB84;
+  --oro-500:#C9A961;
+  --oro-600:#A8873F;
+
+  /* --- Texto --- */
+  --texto:#EFF1F4;
+  --texto-2:#DCE0E6;
+  --texto-3:#BFC5CF;
+  --texto-tenue:#9AA2B0;
+  --texto-apagado:#767F8F;
+
+  /* --- Líneas y cristal --- */
+  --linea:rgba(255,255,255,0.09);
+  --linea-fuerte:rgba(255,255,255,0.16);
+  --linea-roja:rgba(229,9,20,0.32);
+  --linea-oro:rgba(201,169,97,0.28);
+  --cristal:rgba(255,255,255,0.045);
+
+  /* --- Sombras --- */
+  --sombra-placa:0 18px 44px -16px rgba(0,0,0,0.95);
+  --sombra-roja:0 10px 32px -8px rgba(229,9,20,0.55);
+}
+
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{
+  background:var(--negro-950);
+  color:var(--texto-2);
+  font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+  font-weight:400;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+::selection{background:var(--rojo);color:#fff}
+::-webkit-scrollbar{width:9px}
+::-webkit-scrollbar-track{background:#05060a}
+::-webkit-scrollbar-thumb{background:linear-gradient(180deg,#2A303B,#151922);border-radius:9px}
+::-webkit-scrollbar-thumb:hover{background:var(--rojo-oscuro)}
+
+img{max-width:100%;display:block}
+a{color:inherit;text-decoration:none}
+
+/* ============================================================
+   TEXTURAS
+   ============================================================ */
+.tex-carbon{
+  background-color:#0A0C10;
+  background-image:
+    linear-gradient(27deg,#0E1116 5px,transparent 5px),
+    linear-gradient(207deg,#0E1116 5px,transparent 5px),
+    linear-gradient(27deg,#171B22 5px,transparent 5px),
+    linear-gradient(207deg,#171B22 5px,transparent 5px);
+  background-size:16px 16px;
+  background-position:0 0,8px 8px,0 8px,8px 0;
+}
+.tex-grid{
+  background-image:
+    linear-gradient(rgba(255,255,255,0.028) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,255,255,0.028) 1px,transparent 1px);
+  background-size:64px 64px;
+}
+
+/* ============================================================
+   TIPOGRAFÍA GRABADA
+   ============================================================ */
+.engrave-rojo{
+  background:linear-gradient(180deg,#FF6B73 0%,#E50914 40%,#8E040A 72%,#FF4D57 100%);
+  -webkit-background-clip:text;background-clip:text;
+  -webkit-text-fill-color:transparent;color:transparent;
+  filter:drop-shadow(0 1px 0 rgba(0,0,0,0.9));
+}
+.engrave-oro{
+  background:linear-gradient(180deg,#FBF3D9 0%,#E3CB84 32%,#C9A961 55%,#8F7238 78%,#E3CB84 100%);
+  -webkit-background-clip:text;background-clip:text;
+  -webkit-text-fill-color:transparent;color:transparent;
+  filter:drop-shadow(0 1px 0 rgba(0,0,0,0.85)) drop-shadow(0 -1px 0 rgba(255,255,255,0.10));
+}
+.engrave-acero{
+  background:linear-gradient(180deg,#FFFFFF 0%,#DCE0E6 30%,#9AA2B0 58%,#565E6C 80%,#BFC5CF 100%);
+  -webkit-background-clip:text;background-clip:text;
+  -webkit-text-fill-color:transparent;color:transparent;
+  filter:drop-shadow(0 1px 0 rgba(0,0,0,0.9));
+}
+
+.f-display{font-family:'Cinzel',Georgia,serif}
+.f-titular{font-family:'Barlow Condensed','Arial Narrow',sans-serif}
+.f-mono{font-family:'JetBrains Mono',Consolas,monospace}
+
+/* ============================================================
+   PLACAS Y CRISTAL
+   ============================================================ */
+.placa{
+  position:relative;
+  background:linear-gradient(165deg,rgba(28,33,42,0.92) 0%,rgba(11,13,18,0.96) 55%,rgba(18,22,29,0.94) 100%);
+  border:1px solid var(--linea);
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,0.10),
+    inset 0 -1px 0 rgba(0,0,0,0.85),
+    var(--sombra-placa);
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+}
+.placa::before{
+  content:'';position:absolute;inset:0;pointer-events:none;border-radius:inherit;
+  background:linear-gradient(135deg,rgba(255,255,255,0.10) 0%,rgba(255,255,255,0.02) 26%,transparent 48%,rgba(255,255,255,0.045) 68%,transparent 100%);
+}
+.placa-roja{border-color:var(--linea-roja)}
+.placa-roja::after{
+  content:'';position:absolute;inset:-1px;border-radius:inherit;pointer-events:none;
+  box-shadow:0 0 0 1px rgba(229,9,20,0.16),0 0 34px -10px rgba(229,9,20,0.30);
+}
+.cristal{
+  background:rgba(255,255,255,0.035);
+  border:1px solid rgba(255,255,255,0.10);
+  backdrop-filter:blur(22px) saturate(140%);
+  -webkit-backdrop-filter:blur(22px) saturate(140%);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,0.14),0 24px 60px -20px rgba(0,0,0,0.9);
+}
+
+/* ============================================================
+   BOTONES 3D MAQUINADOS
+   Relieve real: luz arriba, sombra abajo, borde iluminado,
+   elevación al pasar el ratón y brillo que barre.
+   ============================================================ */
+.btn{
+  position:relative;
+  display:inline-flex;align-items:center;justify-content:center;gap:.6rem;
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;
+  text-transform:uppercase;letter-spacing:.16em;font-size:.82rem;
+  padding:1rem 2rem;border-radius:4px;
+  cursor:pointer;text-decoration:none;border:1px solid transparent;
+  transition:transform .28s cubic-bezier(.16,1,.3,1),
+             box-shadow .28s cubic-bezier(.16,1,.3,1),
+             background .28s ease,
+             filter .28s ease;
+  overflow:hidden;
+  transform:translateY(0) translateZ(0);
+  will-change:transform;
+  -webkit-tap-highlight-color:transparent;
+}
+/* Barrido de brillo */
+.btn::after{
+  content:'';position:absolute;top:0;left:-60%;width:40%;height:100%;
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,0.30),transparent);
+  transform:skewX(-20deg);
+  transition:left .65s cubic-bezier(.16,1,.3,1);
+  pointer-events:none;
+}
+.btn:hover::after{left:130%}
+
+/* --- Botón ROJO (principal) --- */
+.btn-rojo{
+  background:linear-gradient(180deg,#FF333F 0%,#D80611 52%,#8E040A 100%);
+  border-color:rgba(255,110,120,0.42);
+  color:#fff;
+  box-shadow:
+    0 6px 20px -6px rgba(229,9,20,0.55),
+    inset 0 1px 0 rgba(255,255,255,0.32),
+    inset 0 -2px 5px rgba(0,0,0,0.45);
+  text-shadow:0 1px 2px rgba(0,0,0,0.45);
+}
+.btn-rojo:hover{
+  background:linear-gradient(180deg,#FF4D58 0%,#E50914 52%,#A8050C 100%);
+  box-shadow:
+    0 14px 38px -8px rgba(229,9,20,0.80),
+    0 0 0 1px rgba(255,110,120,0.35),
+    inset 0 1px 0 rgba(255,255,255,0.48),
+    inset 0 -2px 6px rgba(0,0,0,0.40);
+  transform:translateY(-3px) scale(1.015);
+  filter:brightness(1.06);
+}
+.btn-rojo:active{
+  transform:translateY(1px) scale(.995);
+  box-shadow:
+    0 2px 8px -2px rgba(229,9,20,0.5),
+    inset 0 2px 6px rgba(0,0,0,0.55);
+}
+
+/* --- Botón ORO --- */
+.btn-oro{
+  background:linear-gradient(180deg,#F7E9BE 0%,#D9BC72 48%,#A8873F 100%);
+  border-color:rgba(255,244,205,0.55);
+  color:#0A0B0E;
+  box-shadow:
+    0 6px 20px -6px rgba(201,169,97,0.5),
+    inset 0 1px 0 rgba(255,255,255,0.55),
+    inset 0 -2px 5px rgba(0,0,0,0.30);
+}
+.btn-oro:hover{
+  background:linear-gradient(180deg,#FFF6D8 0%,#E3CB84 48%,#B8923F 100%);
+  box-shadow:
+    0 14px 38px -8px rgba(201,169,97,0.75),
+    0 0 0 1px rgba(255,244,205,0.45),
+    inset 0 1px 0 rgba(255,255,255,0.70);
+  transform:translateY(-3px) scale(1.015);
+  filter:brightness(1.05);
+}
+.btn-oro:active{transform:translateY(1px) scale(.995)}
+
+/* --- Botón FANTASMA --- */
+.btn-fantasma{
+  background:rgba(255,255,255,0.03);
+  border-color:rgba(255,255,255,0.16);
+  color:var(--texto);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,0.10);
+}
+.btn-fantasma:hover{
+  border-color:var(--linea-roja);
+  color:#fff;
+  background:rgba(229,9,20,0.10);
+  box-shadow:
+    0 10px 28px -10px rgba(229,9,20,0.55),
+    inset 0 1px 0 rgba(255,255,255,0.16);
+  transform:translateY(-3px);
+}
+.btn-fantasma:active{transform:translateY(1px)}
+
+/* --- Tamaños --- */
+.btn-sm{padding:.62rem 1.15rem;font-size:.72rem;letter-spacing:.14em}
+.btn-lg{padding:1.15rem 2.6rem;font-size:.92rem}
+
+/* ============================================================
+   ETIQUETAS
+   ============================================================ */
+.etiqueta{
+  display:inline-flex;align-items:center;gap:.5rem;
+  font-family:'JetBrains Mono',monospace;font-size:.6rem;font-weight:500;
+  text-transform:uppercase;letter-spacing:.24em;
+  padding:.42rem .85rem;border-radius:3px;
+  background:rgba(255,255,255,0.035);
+  border:1px solid rgba(255,255,255,0.12);
+  color:var(--texto-3);
+}
+.etiqueta-roja{
+  border-color:var(--linea-roja);
+  color:var(--rojo-brillo);
+  background:rgba(229,9,20,0.09);
+}
+.etiqueta-oro{
+  border-color:var(--linea-oro);
+  color:var(--oro-400);
+  background:rgba(201,169,97,0.07);
+}
+.punto{
+  width:5px;height:5px;border-radius:50%;
+  background:currentColor;box-shadow:0 0 8px currentColor;
+  flex-shrink:0;
+}
+.punto-vivo{animation:latido 1.8s ease-in-out infinite}
+@keyframes latido{
+  0%,100%{opacity:1;transform:scale(1)}
+  50%{opacity:.45;transform:scale(.82)}
+}
+
+/* ============================================================
+   LAYOUT
+   ============================================================ */
+.contenedor{max-width:1280px;margin:0 auto;padding:0 1.5rem}
+.contenedor-ancho{max-width:1480px;margin:0 auto;padding:0 1.5rem}
+
+/* ============================================================
+   ACCESIBILIDAD
+   ============================================================ */
+.solo-lectores{
+  position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;
+}
+:focus-visible{
+  outline:2px solid var(--rojo-claro);
+  outline-offset:3px;
+  border-radius:3px;
+}
+
+/* ============================================================
+   MOVIMIENTO REDUCIDO
+   ============================================================ */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{
+    animation-duration:.01ms !important;
+    animation-iteration-count:1 !important;
+    transition-duration:.01ms !important;
+    scroll-behavior:auto !important;
+  }
+  .btn:hover{transform:none}
+}
