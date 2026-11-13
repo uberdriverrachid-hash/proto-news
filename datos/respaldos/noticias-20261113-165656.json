@@ -1,0 +1,358 @@
+{
+  "sitio": {
+    "nombre": "Proto News",
+    "dominio": "actualidadexclusiva.com",
+    "url": "https://actualidadexclusiva.com",
+    "descripcion": "Noticias de Cuba, Estados Unidos y el mundo. Geopolítica, migración y actualidad para la comunidad latina y cubanoamericana de Miami.",
+    "idioma": "es",
+    "presentador": "Rachid García",
+    "actualizado": "2026-11-12T16:13:00-05:00"
+  },
+  "redes": {
+    "facebook": "https://www.facebook.com/RachidAutos/",
+    "whatsapp": "https://wa.me/15616454462",
+    "donaciones": "#donar",
+    "zelle_numero": "17867811923",
+    "zelle_titular": "Proto News"
+  },
+  "categorias": [
+    {
+      "id": "cuba",
+      "nombre": "Cuba",
+      "color": "#E50914"
+    },
+    {
+      "id": "eeuu",
+      "nombre": "Estados Unidos",
+      "color": "#1877F2"
+    },
+    {
+      "id": "mundo",
+      "nombre": "Mundo",
+      "color": "#C9A961"
+    },
+    {
+      "id": "geopolitica",
+      "nombre": "Geopolítica",
+      "color": "#FF6B73"
+    },
+    {
+      "id": "migracion",
+      "nombre": "Migración",
+      "color": "#25D366"
+    }
+  ],
+  "noticias": [
+    {
+      "id": "pn-2026-11-10-001",
+      "titulo": "Rubio sobre Cuba: «Vamos a hacer todo lo posible pero requerirá de que ellos despierten»",
+      "entradilla": "Rubio advirtió en París que EE.UU. hará todo lo posible por Cuba, pero que el cambio depende de que el régimen «despierte» y abandone su camino actual.",
+      "resumen": "Rubio advirtió en París que EE.UU. hará todo lo posible por Cuba, pero que el cambio depende de que el régimen «despierte» y abandone su camino actual.",
+      "categoria": "cuba",
+      "autor": "Redacción PN",
+      "fuente": "CiberCuba",
+      "fecha": "2026-11-09T15:40:23-05:00",
+      "imagen": "assets/img/noticias/rubio-sobre-cuba.jpg",
+      "imagen_credito": "Marco Rubio y personas en La Habana Foto © Departamento de Estado y CiberCuba",
+      "destacada": true,
+      "cuerpo": [
+        "El secretario de Estado estadounidense, Marco Rubio, ofreció este lunes declaraciones a la prensa sobre Cuba en París, donde participa en la reunión de cancilleres del G7, y advirtió que Washington hará todo lo posible por ayudar a la isla a encaminarse hacia un futuro mejor, aunque ello dependerá en última instancia del propio régimen.",
+        "«En última instancia, nuestro objetivo es que Cuba tenga un futuro mejor. Vamos a hacer todo lo que podamos para ayudarla a encaminarse hacia ese futuro, pero, al final, será necesario que ellos despierten y comprendan que no hay futuro en el camino que siguen ahora», afirmó Rubio, según un video difundido por el Departamento de Estado.",
+        "El jefe de la diplomacia estadounidense describió al régimen cubano como un sistema que deliberadamente restringe las libertades de su población para perpetuar su dominio. «El problema con Cuba es que el régimen tiene miedo de concederle a su pueblo cualquier tipo de libertad, económica o de otra clase, porque le gusta controlarlo», señaló.",
+        "Rubio explicó la lógica que guía a La Habana: permitir apenas la actividad económica suficiente para no caer en el colapso total, sin ceder el control. «Lo que ese régimen intenta hacer, y siempre ha hecho, es permitir suficiente actividad económica para ser un país del tercer mundo, pero no del cuarto mundo. Sin embargo, no quiere perder el control sobre la gente», precisó.",
+        "El secretario de Estado subrayó que ese modelo ha tenido una consecuencia directa: la salida masiva de cubanos de la isla. «Ese modelo no funciona y lo único que ha provocado es que millones de personas abandonen Cuba, muchas de ellas rumbo a Estados Unidos», dijo, calificando la situación de amenaza para «la seguridad nacional y los intereses nacionales» de su país.",
+        "Rubio también apuntó contra GAESA, el conglomerado empresarial de las Fuerzas Armadas, al que acusó de enriquecerse a costa de la población. «Hay personas dentro de ese régimen que tienen millones y millones de dólares escondidos en cuentas bancarias por todo el mundo», afirmó, y añadió que el conglomerado militar «ha estado robándole al pueblo cubano lo poco que tiene».",
+        "Sobre el embargo, Rubio fue categórico: «Nuestro embargo a Cuba está establecido por ley y exige libertad política para poder levantarlo», descartando cualquier flexibilización sin cambios políticos reales en la isla.",
+        "Un periodista le preguntó si el llamado público que hizo en octubre a los cubanos para colaborar con la CIA había arrojado resultados. Rubio respondió con cautela: «No le diría si hubiera obtenido algún resultado de la CIA. Porque entonces a esas personas no les iría muy bien».",
+        "Aquel llamado, al que la propia agencia respondió al día siguiente con instrucciones en español para que cubanos la contactaran, fue calificado de «poco serio» e «infantil» por el canciller cubano Bruno Rodríguez.",
+        "A pesar de reconocer la dificultad de la situación, Rubio reiteró el compromiso de la administración Trump. «Es un grupo de personas muy obstinadas, pero seguiremos trabajando en ello porque es una prioridad», concluyó.",
+        "Las declaraciones se producen días después de que el Departamento de Estado anunciara nuevas sanciones contra entidades y personas vinculadas al régimen cubano, incluyendo familiares directos de dirigentes de GAESA y el bloqueo de cinco buques, en el marco de una campaña de presión sostenida a lo largo de 2026."
+      ],
+      "etiquetas": [
+        "cuba"
+      ],
+      "fuente_url": "https://www.cibercuba.com/noticias/2026-11-09-u1-e74-s27061-nid345338-rubio-cuba-vamos-hacer-todo-posible-requerira-ellos"
+    },
+    {
+      "id": "pn-2026-11-10-004",
+      "titulo": "Un pacto para sacar a Díaz-Canel fracasó por divisiones dentro del castrismo, según corresponsal español...",
+      "entradilla": "El periodista David Alandete aseguró que el acuerdo con familiares de Raúl Castro estuvo cerca de cerrarse, pero encontró resistencias dentro del régimen y entre sectores del exilio. Tras el fracaso, Trump habría optado por intensificar la presión sobre La Habana.",
+      "resumen": "El periodista David Alandete aseguró que el acuerdo con familiares de Raúl Castro estuvo cerca de cerrarse, pero encontró resistencias dentro del régimen y entre sectores del exilio. Tras el fracaso, Trump habría optado por intensificar la presión sobre La Habana.",
+      "categoria": "geopolitica",
+      "autor": "Redacción PN",
+      "fuente": "CiberCuba",
+      "fecha": "2026-11-09T13:49:15-05:00",
+      "imagen": "assets/img/noticias/diaz-canel.jpg",
+      "imagen_credito": "Imagen de referencia creada con Inteligencia Artificial Foto © CiberCuba / ChatGPT",
+      "destacada": false,
+      "cuerpo": [
+        "Un acuerdo negociado con familiares de Raúl Castro para forzar la salida del poder de Miguel Díaz-Canel estuvo a punto de concretarse, pero terminó fracasando por la fuerte oposición de sectores del propio castrismo a pactar con la administración de Donald Trump, según aseguró el periodista español David Alandete, corresponsal acreditado en la Casa Blanca.",
+        "En su programa «El Informe de Alandete», publicado este domingo en el canal ViOne de YouTube, el periodista abordó las negociaciones entre Washington y La Habana, sus obstáculos internos y el cambio de estrategia estadounidense tras el fracaso del entendimiento.",
+        "«Había un acuerdo ya casi hecho, ya se iba a forzar la salida de Díaz-Canel», afirmó Alandete, quien explicó que las conversaciones involucraron a familiares de Raúl Castro, pero encontraron una fuerte resistencia dentro del aparato de poder cubano, particularmente entre quienes rechazaban cualquier pacto con Trump o el secretario de Estado, Marco Rubio.",
+        "A esa oposición se sumaron las reticencias de sectores del exilio cubano en Miami, contrarios a un entendimiento que pudiera garantizar la continuidad de la estructura de poder castrista a cambio de apartar a Díaz-Canel.",
+        "Las declaraciones del corresponsal coinciden con los antecedentes de una investigación publicada en septiembre por The Miami Herald, que reveló la existencia de una propuesta estadounidense para suministrar petróleo e inversiones a Cuba a cambio de la salida del gobernante y la privatización de la empresa estatal CUPET.",
+        "Según aquella investigación, uno de los principales interlocutores fue Raúl Guillermo Rodríguez Castro, conocido como «El Cangrejo», nieto y asistente personal de Raúl Castro. Las reservas de La Habana ante las condiciones económicas y políticas, junto con las presiones desde Miami, impidieron que prosperara la iniciativa.",
+        "Del acuerdo frustrado a la presión sobre el régimen",
+        "Para Alandete, el fracaso de aquella vía negociada explica el endurecimiento posterior de la estrategia de Washington, que habría pasado de intentar una salida pactada de Díaz-Canel a incrementar el aislamiento económico y político del régimen.",
+        "«Trump ha optado por recortar las ayudas que daba Venezuela a Cuba, aislarla mucho más, aumentar la presión y buscar cambio desde dentro», sostuvo el corresponsal.",
+        "Esta interpretación sitúa el actual cerco económico y diplomático dentro de una estrategia encaminada a provocar transformaciones en el propio aparato de poder cubano, después de que las conversaciones con el entorno de Raúl Castro no consiguieran producir el relevo político que buscaba Washington.",
+        "¿Cambiará la estrategia de Trump tras la derrota republicana?",
+        "Las declaraciones de Alandete se producen después de la contundente victoria demócrata en las elecciones legislativas del 3 de noviembre, que otorgó a ese partido el control de ambas cámaras del Congreso estadounidense a partir de enero de 2027.",
+        "El resultado ha sido interpretado por sectores oficialistas cubanos como una oportunidad para resistir hasta el final del mandato de Trump. La plataforma Razones de Cuba llegó a presentar al presidente estadounidense como un «pato cojo», debilitado políticamente y con menor capacidad para imponer su agenda.",
+        "Sin embargo, Alandete considera que la nueva correlación de fuerzas en el Congreso no modificará sustancialmente los planes de Washington hacia Cuba y Venezuela.",
+        "Aunque los demócratas podrán ejercer una supervisión parlamentaria más intensa, investigar decisiones del Ejecutivo y bloquear iniciativas legislativas, el presidente conserva importantes facultades en materia de política exterior, sanciones y seguridad nacional.",
+        "Sobre Venezuela, el periodista sostiene que el nuevo escenario tampoco obligará al mandatario a abandonar su estrategia. «Trump no es alguien muy dado a hacer cambios radicales atendiendo a exigencias que le vienen del exterior; al revés, es alguien bastante tozudo en su política», afirmó.",
+        "El corresponsal advirtió también sobre los cálculos políticos de quienes confían en que el tiempo y el desgaste electoral de Trump permitan recuperar las relaciones anteriores con Washington. Según explicó, la presidenta encargada de Venezuela, Delcy Rodríguez, estaría apostando por ganar tiempo hasta la salida del mandatario estadounidense, una estrategia que considera comparable a la del castrismo.",
+        "Al mismo tiempo, Alandete apuntó que los presidentes estadounidenses suelen concentrarse en los asuntos internacionales durante la etapa final de sus mandatos, una tendencia que, a su juicio, podría mantener a Cuba y Venezuela entre las prioridades de Trump durante los próximos dos años."
+      ],
+      "etiquetas": [
+        "geopolitica"
+      ],
+      "fuente_url": "https://www.cibercuba.com/noticias/2026-11-09-u1-e207888-s27061-nid345319-pacto-sacar-diaz-canel-fracaso-divisiones-dentro"
+    },
+    {
+      "id": "pn-2026-11-10-005",
+      "titulo": "¡En el castillo de Cenicienta! Así fue la fiesta de 15 años de la hija de Aly Sánchez",
+      "entradilla": "Aly Sánchez celebró los 15 años de su hija Sophia con una lujosa fiesta de temática Cenicienta llena de emoción, baile y un pastel monumental en forma de castillo.",
+      "resumen": "Aly Sánchez celebró los 15 años de su hija Sophia con una lujosa fiesta de temática Cenicienta llena de emoción, baile y un pastel monumental en forma de castillo.",
+      "categoria": "mundo",
+      "autor": "Redacción PN",
+      "fuente": "CiberCuba",
+      "fecha": "2026-11-09T13:02:45-05:00",
+      "imagen": "assets/img/noticias/aly-sanchez.jpg",
+      "imagen_credito": "Aly Sánchez y su esposo celebraron los 15 años de su hija Sophia Foto © Instagram/Aly Sánchez",
+      "destacada": false,
+      "cuerpo": [
+        "La actriz y comediante cubana Aly Sánchez celebró el domingo los 15 años de su hija mayor, Sophia Balmaseda, con una suntuosa fiesta de temática Cenicienta que dejó a familiares y amigos con lágrimas de emoción y los pies en la pista de baile.",
+        "Fue la actriz cubana Heydy González quien documentó la celebración con un emotivo reel publicado en Instagram, describiendo la noche como el instante en que un cuento de hadas se hizo realidad.",
+        "«Ayer el cuento de Cenicienta cobró vida para celebrar tus 15 años mi Sophita. Pero para mí la magia más grande fue verlos a todos tan felices. Hubo emoción, lágrimas de felicidad, risas y baile, mucho baile... Porque también los cuentos terminan con la familia entera en la pista», escribió Heydy.",
+        "La actriz cerró su publicación con un mensaje que resumió el espíritu de la noche: «Mi niña, que esta nueva etapa te regale amistades bonitas, sueños por cumplir y la confianza para escribir tu propia historia. Y si alguna vez el camino se pone difícil, recuerda que tienes muchos brazos donde refugiarte, incluidos los míos. Te amamos, Sophi. La fiesta terminó, pero la alegría de verte crecer nos acompaña todos los días».",
+        "En sus historias de Instagram Aly Sánchez compartió cada detalle de la fiesta y esos momentos de alegría y lágrimas contenidas que ella y su esposo Roberto Balmaseda vivieron al ver a su niña como toda una princesa.",
+        "El salón recreó un palacio de cuento de hadas con columnas doradas, arcos barrocos, iluminación azul dramática y abundantes arreglos florales en blanco y azul.",
+        "La pista de baile se cubrió de niebla artificial mientras Sophia lucía un espectacular vestido de gala azul gris plateado con corsé de pedrería, falda voluminosa tipo ball gown, escote corazón y una tiara que completaba su look de princesa.",
+        "El pastel fue uno de los protagonistas de la noche: una construcción monumental de varios pisos en azul bebé, blanco y dorado, rematada con un castillo en miniatura de torres y pináculos, y un medallón dorado con el número 15 en el centro, una pieza de repostería que parecía sacada directamente de un cuento de Disney.",
+        "La fiesta tuvo un significado especial para la familia, pues este año ha estado marcado por momentos difíciles para Sophia.",
+        "En julio, la adolescente fue operada de la columna en el Nicklaus Children's Hospital de Miami, y su recuperación fue descrita por Aly como un proceso duro.",
+        "Apenas un mes antes de la cirugía, Sophia se había graduado con reconocimientos en ciencias, música, canto, voleibol y el Conservatorio de Música, demostrando una fortaleza que sus padres no han dejado de celebrar."
+      ],
+      "etiquetas": [
+        "mundo"
+      ],
+      "fuente_url": "https://www.cibercuba.com/noticias/2026-11-09-u1-e208487-s27065-nid345324-castillo-cenicienta-asi-fue-fiesta-15-anos-hija-aly"
+    },
+    {
+      "id": "pn-2026-11-10-002",
+      "titulo": "«¡Bien hecho, señor presidente!»: María Elvira Salazar celebra la apertura de Trump a un acuerdo migratorio",
+      "entradilla": "Salazar celebró que Trump admitiera en 60 Minutes que sus deportaciones fueron «demasiado duras» y lo instó a impulsar la Ley de Dignidad como reforma histórica.",
+      "resumen": "Salazar celebró que Trump admitiera en 60 Minutes que sus deportaciones fueron «demasiado duras» y lo instó a impulsar la Ley de Dignidad como reforma histórica.",
+      "categoria": "eeuu",
+      "autor": "Redacción PN",
+      "fuente": "CiberCuba",
+      "fecha": "2026-11-09T10:06:05-05:00",
+      "imagen": "assets/img/noticias/maria-elvira-salazar.jpg",
+      "imagen_credito": "María Elvira y Donald Trump Foto © X/Rep. María Elvira Salazar y The White House",
+      "destacada": false,
+      "cuerpo": [
+        "La congresista republicana cubanoamericana María Elvira Salazar celebró las declaraciones del presidente Donald Trump en el programa 60 Minutes de CBS, en las que admitió que su política de deportaciones fue «demasiado dura» y abrió la puerta a negociar con los demócratas un estatus legal para inmigrantes indocumentados sin antecedentes penales.",
+        "En un mensaje publicado en X, Salazar respondió directamente al mandatario: «¡Bien hecho, señor presidente! Lo que describiste en 60 Minutes es exactamente de lo que trata la Ley de Dignidad. Un proyecto de ley de inmigración liderado por republicanos con apoyo bipartidista».",
+        "La congresista vinculó punto por punto las palabras de Trump con su propia propuesta legislativa, la Ley de Dignidad (Dignity Act), que reintrodujo en julio de 2025 junto a la demócrata Veronica Escobar.",
+        "El debate sobre una posible reforma migratoria en EE.UU. sigue evolucionando. Sigue todos los detalles y novedades en nuestra sección de Inmigración en EE.UU.",
+        "En la entrevista emitida el domingo, Trump reconoció que deportar a trabajadores sin antecedentes penales generó un costo político real: «Cuando entras a un hotel y hay una mujer que ha trabajado allí como camarera, como limpiadora, y de repente la sacan del país, es duro, es algo muy duro».",
+        "El presidente también esbozó los contornos de un posible acuerdo: «Saca a los asesinos, saca a todos los violentos, saca a los narcotraficantes, pero a la gente que lleva aquí diez o quince años, negocia algo para ellos».",
+        "Salazar recogió esas palabras con entusiasmo: «Lo dijiste: a quienes llevan diez o quince años aquí, 'negocia algo para ellos'. Ese es el núcleo de la legislación de Dignidad».",
+        "La congresista fue más allá y apeló a la ambición histórica de Trump: «Señor presidente, lo he dicho repetidamente: usted puede unir a republicanos y demócratas para arreglar de una vez nuestro sistema migratorio roto. Un problema de cuarenta años. Puede superar el legado de Reagan logrando una reforma migratoria histórica. Este es su momento».",
+        "El contexto político hace especialmente significativa esta convergencia. Los demócratas recuperaron el control de ambas cámaras del Congreso en las elecciones legislativas del tres de noviembre —la primera vez desde 2006—, y una encuesta a pie de urna de CBS reveló que el 58% de los votantes consideró que las medidas migratorias de la administración habían ido demasiado lejos.",
+        "Salazar también argumentó que la inmigración trasciende la seguridad fronteriza: «No es solo seguridad en la frontera. Se trata de la economía y el costo de vida: vivienda, alimentos, salud, manufactura».",
+        "La Ley de Dignidad, que contaba al 15 de octubre con 40 copatrocinadores en el Congreso —20 republicanos y 20 demócratas—, propone un estatus legal temporal renovable de entre siete y diez años para inmigrantes sin antecedentes penales con al menos cinco años de residencia, sin ruta directa a la ciudadanía y con el pago de una restitución de aproximadamente 7,000 dólares.",
+        "La relación entre Salazar y Trump atravesó meses de turbulencia antes de llegar a este momento. En septiembre, la congresista grabó un video frente a la Casa Blanca en el que denunció que la mitad de las 50,000 personas detenidas en julio carecía de antecedentes penales, lo que desató una respuesta airada del presidente. Tras una reconciliación privada, Trump le dio su respaldo formal el 31 de octubre.",
+        "El pronunciamiento de María Elvira llega mientras su continuidad en el Congreso está pendiente de un recuento de votos en el distrito 27 de Florida. Aunque se declaró ganadora la noche electoral, los resultados preliminares le daban una ventaja de apenas 1,090 votos —un 0.44%— sobre el demócrata y expresentador Eliott Rodríguez. El recuento por máquina fue programado para este lunes 9 de noviembre a las 10:00 a.m. en la sede electoral de Miami-Dade, en Doral.",
+        "Para la comunidad cubana en Estados Unidos, la apertura de Trump llega en un momento crítico: los arrestos de cubanos por parte del Servicio de Control de Inmigración y Aduanas (ICE) crecieron un 463% entre finales de 2024 e inicios de 2026, y más de 42,000 cubanos tenían órdenes de deportación pendientes."
+      ],
+      "etiquetas": [
+        "eeuu"
+      ],
+      "fuente_url": "https://www.cibercuba.com/noticias/2026-11-09-u1-e74-s27061-nid345313-bien-hecho-senor-presidente-maria-elvira-salazar-celebra"
+    },
+    {
+      "id": "pn-2026-11-10-003",
+      "titulo": "«¡No hablo mucho inglés, pero quiero agradecerte!»: Repartidor de Amazon se acerca a una cámara de...",
+      "entradilla": "Un repartidor venezolano de Amazon agradeció en español a la dueña de una casa por su nevera de snacks gratis. El video superó 1,1 millones de vistas en TikTok.",
+      "resumen": "Un repartidor venezolano de Amazon agradeció en español a la dueña de una casa por su nevera de snacks gratis. El video superó 1,1 millones de vistas en TikTok.",
+      "categoria": "migracion",
+      "autor": "Redacción PN",
+      "fuente": "CiberCuba",
+      "fecha": "2026-11-09T08:14:05-05:00",
+      "imagen": "assets/img/noticias/repartidor-amazon.jpg",
+      "imagen_credito": "Repartidor de Amazon Foto © TikTok / @veronikaohanian",
+      "destacada": false,
+      "cuerpo": [
+        "Un repartidor venezolano de Amazon ha conmovido a miles de personas en TikTok después de protagonizar un emotivo momento frente a la cámara de seguridad de una vivienda en Estados Unidos. El hombre quiso agradecer personalmente a la dueña de la casa por un gesto que, aunque puede parecer pequeño, hace una gran diferencia en las largas jornadas de quienes trabajan entregando paquetes.",
+        "La protagonista de esta bonita historia es Veronika Ohanian, una mujer que desde hace nueve años mantiene en su casa una nevera abastecida con bebidas frías y snacks gratuitos para los repartidores que llegan hasta su puerta.",
+        "En el video compartido por Veronika en TikTok, el trabajador se acerca a la cámara y, con una sinceridad que ha conquistado las redes sociales, comienza a hablar en español, consciente de que probablemente la mujer no entendería sus palabras.",
+        "«Probablemente no entiendes mi idioma. Soy de Venezuela y no hablo mucho inglés, pero solo quiero agradecerte de verdad por hacer esto por los conductores», expresó el repartidor.",
+        "Pero su mensaje no terminó ahí. El venezolano quiso hacerle saber lo especial que resulta encontrar personas que se preocupan por quienes pasan tantas horas trabajando en la calle.",
+        "«Sé que muchas personas no lo hacen, pero eres el uno por ciento de todas las personas que se toman el tiempo y tienen el corazón para hacer esto por nosotros», añadió.",
+        "Visiblemente agradecido, el trabajador también quiso transmitirle el cariño de otros repartidores y de la comunidad hispanohablante que sigue sus publicaciones.",
+        "«De mi parte y de toda la comunidad que habla español en tus redes sociales, te damos las gracias por tomarte la consideración y tener tanto amor con nosotros».",
+        "En una de las partes más conmovedoras de su mensaje explicó cómo esos pequeños detalles pueden transformar una jornada de trabajo. «Haces que nuestras energías suban, podamos seguir trabajando un poquito más alegres, un poquito más tranquilos, y todo es gracias a ti», aseguró.",
+        "El video se volvió viral y superó 1,1 millones de reproducciones, además de acumular más de 141,000 «me gusta» y miles de comentarios de usuarios emocionados con las palabras del venezolano.",
+        "La emotiva respuesta de la mujer al repartidor venezolano",
+        "Si el mensaje del trabajador consiguió emocionar a quienes lo escucharon, la respuesta de Veronika no fue menos especial.",
+        "La mujer confesó que, incluso antes de traducir las palabras del repartidor, ya había percibido la sinceridad y el cariño con los que se dirigía a ella.",
+        "«Antes de entender una sola palabra de lo que decías, podía sentir todo el amor y la gratitud en tu corazón. Sabía que tus palabras me iban a hacer llorar antes de siquiera traducirlas», escribió.",
+        "Veronika también compartió una reflexión sobre lo mucho que significan para ella estos encuentros, después de casi una década ofreciendo bebidas y alimentos a quienes llegan a su vivienda para entregar paquetes.",
+        "«La gente suele pensar que soy yo quien hace algo especial por ustedes, pero lo que no se dan cuenta es cuánto hacen ustedes por mí. La felicidad que traen a mi vida es algo que nunca podría expresar con palabras», confesó.",
+        "La historia también llegó a la actriz venezolana Alba Roversi, quien recordó su propia experiencia trabajando como repartidora en Estados Unidos.",
+        "Roversi contó que, durante una etapa en la que entregaba paquetes junto a su esposo en Las Vegas, también encontró personas que dejaban agua y refrigerios para los trabajadores, un detalle que agradecían especialmente durante sus recorridos.",
+        "El repartidor venezolano, que además aseguró ser seguidor de Veronika en las redes sociales, cerró su mensaje con unas palabras sencillas, pero llenas de cariño: «Eres lo máximo. Muchas gracias de verdad, siempre, por todo»."
+      ],
+      "etiquetas": [
+        "migracion"
+      ],
+      "fuente_url": "https://www.cibercuba.com/noticias/2026-11-09-u65722-e65722-s27065-nid345300-hablo-mucho-ingles-quiero-agradecerte-repartidor"
+    },
+    {
+      "id": "pn-2026-11-12-001",
+      "titulo": "Reencuentro familiar cubano tras 5 años de separación",
+      "entradilla": "Una emotiva reunión en el aeropuerto de La Habana reúne a una familia cubana que había estado separada por la migración.",
+      "resumen": "Una familia cubana se reencuentra en el aeropuerto José Martí tras 5 años de separación por la migración. Abrazos, lágrimas y banderas marcan el momento.",
+      "categoria": "cuba",
+      "autor": "Redacción PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/reencuentro-cubano-emocion.png",
+      "imagen_credito": "Foto de la familia cubana, © Rachid García / Proto News",
+      "destacada": true,
+      "cuerpo": [
+        "Una familia cubana vivió este martes uno de los momentos más emotivos en el Aeropuerto Internacional José Martí de La Habana: el reencuentro tras cinco años de separación forzada por la migración.",
+        "Los abuelos, que no conocían a sus nietos nacidos en Estados Unidos, rompieron a llorar al verlos bajar por la manga del avión. Los padres, con banderas de Cuba y EE.UU. entrelazadas, apenas podían contener la emoción.",
+        "\"Cinco años son muchos días, muchas noches, muchos cumpleaños por WhatsApp\", dijo la abuela, abrazando a su nieta de 4 años. \"Hoy el aeropuerto no es de despedidas, es de llegada.\"",
+        "El vuelo procedente de Miami traía a 12 familias en situación similar. Organizaciones de la sociedad civil cubana en el exilio coordinaron los permisos de viaje humanitario.",
+        "Según datos oficiales, más de 500.000 cubanos han emigrado en los últimos tres años, la mayor ola migratoria desde la crisis de los balseros de 1994."
+      ],
+      "etiquetas": [
+        "cuba",
+        "familia",
+        "migracion",
+        "reencuentro"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/reencuentro-familiar-cubano-5-anos"
+    },
+    {
+      "id": "pn-2026-11-12-002",
+      "titulo": "Florida honra a sus veteranos: desfile masivo en el Día de los Veteranos",
+      "entradilla": "Miles de floridanos salieron a las calles para rendir homenaje a los hombres y mujeres que sirvieron en las fuerzas armadas de EE.UU.",
+      "resumen": "Desfiles, ceremonias y actos de gratitud en todo Florida. El gobernador DeSantis encabezó el acto principal en Tampa. Veteranos de Vietnam, Irak y Afganistán fueron los protagonistas.",
+      "categoria": "eeuu",
+      "autor": "Redacción PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/dia-veteranos-florida.png",
+      "imagen_credito": "Desfile del Día de los Veteranos en Tampa, © Oficina del Gobernador de Florida",
+      "destacada": true,
+      "cuerpo": [
+        "Florida, el estado con la tercera mayor población de veteranos de EE.UU. (más de 1.5 millones), conmemoró este 11 de noviembre el Día de los Veteranos con desfiles en Tampa, Miami, Orlando, Jacksonville y decenas de ciudades menores.",
+        "El gobernador Ron DeSantis encabezó la ceremonia principal en el Veterans Memorial Park de Tampa, donde depositó una ofrenda floral y pronunció un discurso de agradecimiento: \"La libertad no es gratis. Ustedes pagaron el precio.\"",
+        "Veteranos de la Guerra de Vietnam, la Guerra del Golfo, Irak y Afganistán marcharon junto a cadetes de la JROTC y bandas escolares. El público, con banderas y carteles de \"Thank You Veterans\", aplaudió a su paso.",
+        "En Miami-Dade, la comunidad cubanoamericana tuvo una presencia destacada: veteranos de la Brigada 2506 y exiliados que sirvieron en el ejército estadounidense desfilaron en Little Havana.",
+        "El Departamento de Asuntos de Veteranos de Florida anunció nuevos programas de salud mental y empleo para veteranos en transición a la vida civil."
+      ],
+      "etiquetas": [
+        "eeuu",
+        "florida",
+        "veteranos",
+        "desfile",
+        "desantis"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/florida-honra-veteranos-desfile"
+    },
+    {
+      "id": "pn-2026-11-12-003",
+      "titulo": "Drones militares EE.UU. intensifican vigilancia sobre Cuba: qué se sabe",
+      "entradilla": "Imágenes satelitales y datos de vuelo confirman un aumento de misiones de reconocimiento MQ-9 Reaper y RQ-4 Global Hawk cerca del espacio aéreo cubano.",
+      "resumen": "El Comando Sur ha incrementado vuelos de drones MQ-9 Reaper y RQ-4 Global Hawk sobre el Caribe. Analistas vinculan la actividad a migración, narcotráfico y monitoreo de instalaciones militares cubanas.",
+      "categoria": "mundo",
+      "autor": "Redacción PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/drones-vigilan-cuba.png",
+      "imagen_credito": "Composición con datos de FlightRadar24 y Sentinel-2, © Proto News",
+      "destacada": false,
+      "cuerpo": [
+        "Datos de vuelo abiertos (ADS-B) y análisis de imágenes satelitales Sentinel-2 muestran un incremento sostenido desde octubre de misiones de drones de alta altitud (RQ-4 Global Hawk) y media altitud (MQ-9 Reaper) operando desde bases en Florida y el Caribe.",
+        "Los patrones de vuelo —órbitas elípticas a 50.000-60.000 pies (Global Hawk) y 25.000 pies (Reaper)— cubren el estrecho de Florida, la zona económica exclusiva de Cuba y aproximaciones a La Habana, Santiago de Cuba y la base naval de Guantánamo.",
+        "Fuentes del Comando Sur (SOUTHCOM) consultadas bajo condición de anonimato confirman que las misiones responden a tres prioridades: (1) monitoreo de flujos migratorios marítimos irregulares, (2) detección de lanchas rápidas vinculadas al narcotráfico, y (3) vigilancia de instalaciones de defensa aérea y radar cubanas.",
+        "El régimen cubano ha denunciado \"violaciones del espacio aéreo\" en notas diplomáticas, aunque los vuelos se mantienen en espacio internacional. Analistas del CSIS y el Atlantic Council señalan que la intensidad actual es la mayor desde 2016.",
+        "Para la comunidad cubanoamericana en Miami, la presencia de drones se lee como señal de presión sostenida de la administración Trump sobre La Habana."
+      ],
+      "etiquetas": [
+        "mundo",
+        "cuba",
+        "drones",
+        "eeuu",
+        "southcom",
+        "vigilancia"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/drones-eeuu-vigilan-cuba"
+    },
+    {
+      "id": "pn-2026-11-12-004",
+      "titulo": "Dinero, rejas y armas: la radiografía del poder en Cuba hoy",
+      "entradilla": "Una investigación de Proto News expone cómo GAESA, el conglomerado militar, controla la economía, la represión y el armamento en la isla.",
+      "resumen": "Tres pilares sostienen el poder: el dinero (GAESA y empresas en paraísos fiscales), las rejas (prisiones políticas y Seguridad del Estado) y las armas (control militar de sectores estratégicos).",
+      "categoria": "geopolitica",
+      "autor": "Equipo de Investigación PN",
+      "fuente": "Proto News",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/dinero-rejas-armas.png",
+      "imagen_credito": "Infografía Proto News con datos de Cuba Archive, Human Rights Watch y documentos filtrados",
+      "destacada": true,
+      "cuerpo": [
+        "Una investigación de Proto News basada en documentos filtrados, informes de ONG internacionales (Cuba Archive, Human Rights Watch, Amnistía Internacional) y testimonios de exiliados recientes dibuja la anatomía del poder en Cuba 2026.",
+        "DINERO: GAESA (Grupo de Administración Empresarial S.A.), el holding de las Fuerzas Armadas Revolucionarias, controla estimadamente el 60-70% de la economía formal: turismo (Gaviota, Habaguanex), comercio minorista (TRD Caribe), construcción, telecomunicaciones (ETECSA) y puertos. Cuentas en paraísos fiscales (Panamá, Bahamas, Suiza) movieron >$2.300M en 2023-24 según Pandora Papers y filtraciones bancarias.",
+        "REJAS: El sistema penitenciario cubano alberga, según Cuba Archive, >1.000 presos políticos (julio 2026). Seguridad del Estado (DTI) y la Policía Nacional Revolucionaria (PNR) operan con impunidad: detenciones arbitrarias, juicios sumarios, condenas de 10-20 años por \"desorden público\", \"propaganda enemiga\" o \"sedición\". Centros como Combinado del Este, Kilo 5 y 5½ y Prisión de Mujeres de Occidente son epicentros de denuncias de tortura y negligencia médica.",
+        "ARMAS: El MINFAR y el MININT controlan no solo la defensa, sino sectores estratégicos: ciberseguridad (Joven Club, ETECSA), comunicaciones, infraestructura energética y logística de importaciones. La doctrina de \"Guerra de Todo el Pueblo\" militariza la sociedad civil.",
+        "Conclusión: el poder en Cuba no es partidario (PCC), sino militar-empresarial (GAESA + MINFAR + MININT). Cualquier transición real requiere desmantelar esta tríada."
+      ],
+      "etiquetas": [
+        "geopolitica",
+        "cuba",
+        "gaesa",
+        "derechos-humanos",
+        "investigacion",
+        "poder"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/dinero-rejas-armas-radiografia-poder-cuba"
+    },
+    {
+      "id": "pn-2026-11-12-005",
+      "titulo": "Tasa informal del dólar en Cuba: 320 CUP y subiendo — gráfico actualizado",
+      "entradilla": "El mercado negro de divisas marca un nuevo récord histórico. El euro supera los 340 CUP y la MLC se desploma. Análisis de la brecha cambiaria.",
+      "resumen": "Según elToque y monitoreo propio, 1 USD = 320 CUP, 1 EUR = 342 CUP, 1 MLC = 245 CUP. La brecha con la tasa oficial (1x24) supera el 1.200%. Inflación real estimada >200% anual.",
+      "categoria": "cuba",
+      "autor": "Redacción PN",
+      "fuente": "Proto News / elToque",
+      "fecha": "2026-11-12T16:13:00-05:00",
+      "imagen": "assets/img/noticias/tasa-cambio-informal.png",
+      "imagen_credito": "Gráfico Proto News con datos de elToque (elToque.com) y monitoreo propio",
+      "destacada": false,
+      "cuerpo": [
+        "El mercado informal de divisas en Cuba marcó este martes un nuevo récord histórico: el dólar estadounidense se cotiza a 320 pesos cubanos (CUP), el euro a 342 CUP y la Moneda Libremente Convertible (MLC) cae a 245 CUP, según el agregador elToque y verificación propia de Proto News en grupos de Telegram y WhatsApp de cambistas en La Habana, Santiago y Matanzas.",
+        "La brecha con la tasa oficial del Banco Central de Cuba (1 USD = 24 CUP, 1 EUR = 25,7 CUP, 1 MLC = 24 CUP) supera el 1.200% para el dólar y el 1.300% para el euro. La MLC, creada en 2019 como sustituto del CUC, ha perdido >85% de su valor informal en 3 años.",
+        "Factores que impulsan la subida: (1) emisión monetaria sin respaldo para financiar déficit fiscal (>80% del PIB), (2) caída de ingresos por turismo y exportaciones, (3) remesas como única fuente neta de divisas frescas, (4) especulación y acaparamiento ante expectativa de mayor devaluación.",
+        "Impacto social: canasta básica familiar cuesta ~15.000 CUP/mes (salario medio ~4.500 CUP). Jubilados con pensión de 1.528 CUP sobreviven con <5 USD/mes. Protestas espontáneas por precios en mercados agropecuarios se reportan semanalmente.",
+        "El gobierno insiste en \"ordenamiento monetario\" y acusa a elToque de \"guerra económica\", pero no publica datos de reservas internacionales ni oferta/demanda de divisas desde 2021."
+      ],
+      "etiquetas": [
+        "cuba",
+        "economia",
+        "tasa-cambio",
+        "dolar",
+        "inflacion",
+        "eltoque",
+        "mlc"
+      ],
+      "fuente_url": "https://actualidadexclusiva.com/noticias/tasa-cambio-informal-cuba-320-cup"
+    }
+  ]
+}

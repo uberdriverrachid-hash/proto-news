@@ -6,7 +6,7 @@
     "descripcion": "Noticias de Cuba, Estados Unidos y el mundo. Geopolítica, migración y actualidad para la comunidad latina y cubanoamericana de Miami.",
     "idioma": "es",
     "presentador": "Rachid García",
-    "actualizado": "2026-11-12T16:13:00-05:00"
+    "actualizado": "2026-11-13T17:56:56-05:00"
   },
   "redes": {
     "facebook": "https://www.facebook.com/RachidAutos/",
@@ -44,6 +44,36 @@
   ],
   "noticias": [
     {
+      "titulo": "La FAA ordena frenar los despegues en todo Estados Unidos",
+      "entradilla": "La Administración Federal de Aviación suspendió este viernes 13 de noviembre todos los despegues en el país por un problema de comunicaciones en los centros de control del tráfico aéreo. La medida alcanza también a Miami y Fort Lauderdale.",
+      "resumen": "Pausa nacional en los despegues por un fallo de comunicaciones en el control aéreo. Miami y Fort Lauderdale, incluidos.",
+      "categoria": "eeuu",
+      "autor": "Rachid García",
+      "fuente": "Redacción PN",
+      "imagen": "assets/img/faa-despegues-13nov2026.png",
+      "imagen_credito": "Imagen: Proto News",
+      "destacada": true,
+      "cuerpo": [
+        "La Administración Federal de Aviación de Estados Unidos (FAA) ordenó este viernes 13 de noviembre una pausa nacional en los despegues tras detectarse problemas de comunicación en varios centros de control del tráfico aéreo.",
+        "La orden abarca a todos los aeropuertos del país, incluidos los de Miami y Fort Lauderdale, dos de los puntos con mayor tráfico hacia América Latina.",
+        "## Qué significa para los viajeros",
+        "Los aviones que esperaban autorización para despegar deben permanecer en tierra hasta nuevo aviso. Los vuelos que ya estaban en el aire continúan su ruta hacia sus destinos.",
+        "La FAA indicó que sus técnicos investigan la causa del fallo y que ofrecerá actualizaciones en las próximas horas.",
+        "> Si viajas hoy, consulta el estado de tu vuelo con tu aerolínea antes de salir hacia el aeropuerto.",
+        "## Un sistema bajo presión",
+        "La medida llega en un momento de máxima exigencia para la aviación comercial estadounidense y afecta de forma directa a la comunidad cubanoamericana, que concentra en Miami uno de sus principales puntos de conexión con la isla y con el resto del continente.",
+        "Proto News seguirá informando a medida que la FAA publique nuevas actualizaciones sobre la reanudación de los despegues."
+      ],
+      "etiquetas": [
+        "faa",
+        "aviacion",
+        "estados-unidos",
+        "miami"
+      ],
+      "id": "pn-2026-11-13-001",
+      "fecha": "2026-11-13T17:56:56-05:00"
+    },
+    {
       "id": "pn-2026-11-10-001",
       "titulo": "Rubio sobre Cuba: «Vamos a hacer todo lo posible pero requerirá de que ellos despierten»",
       "entradilla": "Rubio advirtió en París que EE.UU. hará todo lo posible por Cuba, pero que el cambio depende de que el régimen «despierte» y abandone su camino actual.",
@@ -54,7 +84,7 @@
       "fecha": "2026-11-09T15:40:23-05:00",
       "imagen": "assets/img/noticias/rubio-sobre-cuba.jpg",
       "imagen_credito": "Marco Rubio y personas en La Habana Foto © Departamento de Estado y CiberCuba",
-      "destacada": true,
+      "destacada": false,
       "cuerpo": [
         "El secretario de Estado estadounidense, Marco Rubio, ofreció este lunes declaraciones a la prensa sobre Cuba en París, donde participa en la reunión de cancilleres del G7, y advirtió que Washington hará todo lo posible por ayudar a la isla a encaminarse hacia un futuro mejor, aunque ello dependerá en última instancia del propio régimen.",
         "«En última instancia, nuestro objetivo es que Cuba tenga un futuro mejor. Vamos a hacer todo lo que podamos para ayudarla a encaminarse hacia ese futuro, pero, al final, será necesario que ellos despierten y comprendan que no hay futuro en el camino que siguen ahora», afirmó Rubio, según un video difundido por el Departamento de Estado.",
@@ -222,7 +252,7 @@
       "fecha": "2026-11-12T16:13:00-05:00",
       "imagen": "assets/img/noticias/reencuentro-cubano-emocion.png",
       "imagen_credito": "Foto de la familia cubana, © Rachid García / Proto News",
-      "destacada": true,
+      "destacada": false,
       "cuerpo": [
         "Una familia cubana vivió este martes uno de los momentos más emotivos en el Aeropuerto Internacional José Martí de La Habana: el reencuentro tras cinco años de separación forzada por la migración.",
         "Los abuelos, que no conocían a sus nietos nacidos en Estados Unidos, rompieron a llorar al verlos bajar por la manga del avión. Los padres, con banderas de Cuba y EE.UU. entrelazadas, apenas podían contener la emoción.",
@@ -249,7 +279,7 @@
       "fecha": "2026-11-12T16:13:00-05:00",
       "imagen": "assets/img/noticias/dia-veteranos-florida.png",
       "imagen_credito": "Desfile del Día de los Veteranos en Tampa, © Oficina del Gobernador de Florida",
-      "destacada": true,
+      "destacada": false,
       "cuerpo": [
         "Florida, el estado con la tercera mayor población de veteranos de EE.UU. (más de 1.5 millones), conmemoró este 11 de noviembre el Día de los Veteranos con desfiles en Tampa, Miami, Orlando, Jacksonville y decenas de ciudades menores.",
         "El gobernador Ron DeSantis encabezó la ceremonia principal en el Veterans Memorial Park de Tampa, donde depositó una ofrenda floral y pronunció un discurso de agradecimiento: \"La libertad no es gratis. Ustedes pagaron el precio.\"",
@@ -306,7 +336,7 @@
       "fecha": "2026-11-12T16:13:00-05:00",
       "imagen": "assets/img/noticias/dinero-rejas-armas.png",
       "imagen_credito": "Infografía Proto News con datos de Cuba Archive, Human Rights Watch y documentos filtrados",
-      "destacada": true,
+      "destacada": false,
       "cuerpo": [
         "Una investigación de Proto News basada en documentos filtrados, informes de ONG internacionales (Cuba Archive, Human Rights Watch, Amnistía Internacional) y testimonios de exiliados recientes dibuja la anatomía del poder en Cuba 2026.",
         "DINERO: GAESA (Grupo de Administración Empresarial S.A.), el holding de las Fuerzas Armadas Revolucionarias, controla estimadamente el 60-70% de la economía formal: turismo (Gaviota, Habaguanex), comercio minorista (TRD Caribe), construcción, telecomunicaciones (ETECSA) y puertos. Cuentas en paraísos fiscales (Panamá, Bahamas, Suiza) movieron >$2.300M en 2023-24 según Pandora Papers y filtraciones bancarias.",

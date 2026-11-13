@@ -1,0 +1,23 @@
+{
+  "titulo": "La FAA ordena frenar los despegues en todo Estados Unidos",
+  "entradilla": "La Administración Federal de Aviación suspendió este viernes 13 de noviembre todos los despegues en el país por un problema de comunicaciones en los centros de control del tráfico aéreo. La medida alcanza también a Miami y Fort Lauderdale.",
+  "resumen": "Pausa nacional en los despegues por un fallo de comunicaciones en el control aéreo. Miami y Fort Lauderdale, incluidos.",
+  "categoria": "eeuu",
+  "autor": "Rachid García",
+  "fuente": "Redacción PN",
+  "imagen": "assets/img/faa-despegues-13nov2026.png",
+  "imagen_credito": "Imagen: Proto News",
+  "destacada": true,
+  "cuerpo": [
+    "La Administración Federal de Aviación de Estados Unidos (FAA) ordenó este viernes 13 de noviembre una pausa nacional en los despegues tras detectarse problemas de comunicación en varios centros de control del tráfico aéreo.",
+    "La orden abarca a todos los aeropuertos del país, incluidos los de Miami y Fort Lauderdale, dos de los puntos con mayor tráfico hacia América Latina.",
+    "## Qué significa para los viajeros",
+    "Los aviones que esperaban autorización para despegar deben permanecer en tierra hasta nuevo aviso. Los vuelos que ya estaban en el aire continúan su ruta hacia sus destinos.",
+    "La FAA indicó que sus técnicos investigan la causa del fallo y que ofrecerá actualizaciones en las próximas horas.",
+    "> Si viajas hoy, consulta el estado de tu vuelo con tu aerolínea antes de salir hacia el aeropuerto.",
+    "## Un sistema bajo presión",
+    "La medida llega en un momento de máxima exigencia para la aviación comercial estadounidense y afecta de forma directa a la comunidad cubanoamericana, que concentra en Miami uno de sus principales puntos de conexión con la isla y con el resto del continente.",
+    "Proto News seguirá informando a medida que la FAA publique nuevas actualizaciones sobre la reanudación de los despegues."
+  ],
+  "etiquetas": ["faa", "aviacion", "estados-unidos", "miami"]
+}
